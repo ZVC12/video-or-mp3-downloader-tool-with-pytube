@@ -1,4 +1,4 @@
-# video-downloader-tool-with-pytube 
+# video-or-mp3-downloader-tool-with-pytube 
 more language will come with updates
 tr
 komut satırına Linux("bash requirements.txt"yazmanız yeterlidir) ,
