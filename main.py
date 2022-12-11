@@ -35,7 +35,7 @@ if dil == 1:
             ad, uza = os.path.splitext(indirilmis)
             yeni = ad + '.mp3'
             os.rename(indirilmis, yeni)
-            print("görüsmek üzere ! ")
+            print("mp3 indirildi !  ")
 
         mp3()
     elif download == 3:
