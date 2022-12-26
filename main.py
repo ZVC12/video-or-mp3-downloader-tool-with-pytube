@@ -9,7 +9,7 @@ def yazi():
 
 
 yazi()
-print("(1)Turkish\n(2)English\n ")
+print("(1)Türkçe\n(2)English\n ")
 dil = int(input("please choose your language : "))
 if dil == 1:
     yazi()
